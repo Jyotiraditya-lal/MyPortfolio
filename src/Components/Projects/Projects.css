@@ -1,0 +1,53 @@
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .row {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-weight: bolder;
+  }
+  
+  .project-image {
+    width: 30%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-left: 25%;
+    margin-bottom: 50px;
+  }
+  
+  .project-description {
+    font-size: 1.1rem;
+  }
+  
+  .btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    height: 30px;
+    cursor: pointer;
+    margin-left: 80%; 
+    margin-right: auto; 
+    display: block;
+    margin-top: 25px;
+    
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
