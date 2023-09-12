@@ -8,14 +8,14 @@ const Experience=()=>{
         <h1 className='title'>Work Experience</h1>
         <div className='container'>
             <section>
-            <h2>Project Manager</h2>
+            <h2>Full-stack Developer</h2>
             <h3>Vineet consulting</h3>
             <h4>sep 2022-Present</h4>
             <ul>
-                <li>Developed and initiated projects, managed costs and monitored performance</li>
-                <li>Met project deadlines without sacrificing build quality or workplace safety</li>
-                <li>Identified plans and resources required to meet project goals and objectives</li>
-                <li>Managed an Excel sheet with project related details</li>
+                <li>Collaborated with business analysts and end-users to understand the organizations unique requirements and translate them into technical specifications for CRM customization.</li>
+                <li>Designed, maintained, and optimized the database schema of the CRM system.</li>
+                <li>Integrated the CRM system with other third-party applications, databases</li>
+                <li>Customized the CRM systems user interface to align with the organizations branding and user experience requirements</li>
             </ul>
             </section>
             <section>
@@ -34,6 +34,15 @@ const Experience=()=>{
             <ul>
                 <li>Engaged with customers to build business relationships.</li>
                 <li>Penetrated targeted accounts to generate sales from within client base</li>
+            </ul>
+            </section>
+            <section>
+            <h2>Web Development Intern</h2>
+            <h3>Panaka Consumables</h3>
+            <h4>Jul 2021- Dec 2021</h4>
+            <ul>
+                <li>created user interfaces and made necessary changes improve user experiences.</li>
+                <li>Assisted in the maintenance of existing websites, making updates, fixing bugs, and optimizing performance</li>
             </ul>
             </section>
         </div>
